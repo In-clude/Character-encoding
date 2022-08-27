@@ -5,11 +5,9 @@
 
  Unicode为程序默认编码
  
- 日文编码：“shift_jis”
- 中文编码：“gb2312”
+ 日文编码：“shift_jis” 中文编码：“gb2312”
 
- 使用:
- 将文件拖入多选框即可读取,也可粘贴文件地址进行读取
+ 使用:将文件拖入多选框即可读取,也可粘贴文件地址进行读取
 
 ![使用](https://github.com/In-clude/Character-encoding/blob/master/%E6%88%AA%E5%9B%BE/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8Egif.gif?raw=true)
 
